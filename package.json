@@ -1,0 +1,14 @@
+{
+  "name": "osu-map-contest",
+  "version": "1.0.0",
+  "description": "hide name of osu maps submitted for a mapping contest",
+  "main": "hide-name.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dudehacker",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
